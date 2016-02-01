@@ -1,0 +1,12 @@
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\ImageClassifier.exe.config
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\Images\2broths.JPG
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\Images\backgroud.jpg
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\Images\backgroud2.jpg
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\Images\backgroud3.jpg
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\Images\PackageManagementConsole2.png
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\Images\Pic1.JPG
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\ImageClassifier.exe
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\ImageClassifier.pdb
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\obj\Debug\ImageClassifier.csprojResolveAssemblyReference.cache
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\obj\Debug\ImageClassifier.exe
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\obj\Debug\ImageClassifier.pdb

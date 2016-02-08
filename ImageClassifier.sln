@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageClassifier", "ImageCla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMetadataExtractor", "ImageMetadataExtractor\ImageMetadataExtractor.csproj", "{74D2B76F-75D8-4CE1-BAAA-CC6FC43334BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageClassifierLib", "ImageClassifierLib\ImageClassifierLib.csproj", "{1AE2C2D5-8A4F-4831-BB28-DDB033811C90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{74D2B76F-75D8-4CE1-BAAA-CC6FC43334BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74D2B76F-75D8-4CE1-BAAA-CC6FC43334BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74D2B76F-75D8-4CE1-BAAA-CC6FC43334BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE2C2D5-8A4F-4831-BB28-DDB033811C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE2C2D5-8A4F-4831-BB28-DDB033811C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE2C2D5-8A4F-4831-BB28-DDB033811C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE2C2D5-8A4F-4831-BB28-DDB033811C90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using ImageClassifierLib;
 
 namespace ImageClassifier
 {
@@ -20,8 +21,9 @@ namespace ImageClassifier
             int photoDatePropertyId = 36867;
 
             var directory = ConfigurationManager.AppSettings["ImagesFolder"];
+            IImageClassifierProvider provider = new DirectoryImageClassifierProvider(directory);
 
-            string[] files = Directory.GetFiles(directory);
+            var files = provider.GetImagesFilePaths();
 
             foreach (string file in files)
             {

@@ -1,0 +1,5 @@
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifierLib\bin\Debug\ImageClassifierLib.dll
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifierLib\bin\Debug\ImageClassifierLib.pdb
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifierLib\obj\Debug\ImageClassifierLib.csprojResolveAssemblyReference.cache
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifierLib\obj\Debug\ImageClassifierLib.dll
+E:\GitHub\Image Classifier\ImageClassifier\ImageClassifierLib\obj\Debug\ImageClassifierLib.pdb

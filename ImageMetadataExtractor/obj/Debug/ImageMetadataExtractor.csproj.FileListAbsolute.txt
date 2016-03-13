@@ -1,0 +1,5 @@
+E:\GitHub\Image Classifier\ImageClassifier\ImageMetadataExtractor\bin\Debug\ImageMetadataExtractor.dll
+E:\GitHub\Image Classifier\ImageClassifier\ImageMetadataExtractor\bin\Debug\ImageMetadataExtractor.pdb
+E:\GitHub\Image Classifier\ImageClassifier\ImageMetadataExtractor\obj\Debug\ImageMetadataExtractor.csprojResolveAssemblyReference.cache
+E:\GitHub\Image Classifier\ImageClassifier\ImageMetadataExtractor\obj\Debug\ImageMetadataExtractor.dll
+E:\GitHub\Image Classifier\ImageClassifier\ImageMetadataExtractor\obj\Debug\ImageMetadataExtractor.pdb

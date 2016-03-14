@@ -6,7 +6,8 @@
     <ProjectGuid>9eb2193b-7643-4729-843c-2947ea23d868</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>BingImageDownloaded.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +24,113 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BingImageDownloaded.py" />
+    <Compile Include="BingImageDownloader.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bing\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bing\01-013.jpg" />
+    <Content Include="bing\0102_mozart_001.jpeg" />
+    <Content Include="bing\10mozart1.jpg" />
+    <Content Include="bing\13Wolfgang-amadeus-mozart_2.jpg" />
+    <Content Include="bing\152550-004-669D4462.jpg" />
+    <Content Include="bing\1Wolfgang-amadeus-mozart_2.jpg" />
+    <Content Include="bing\20071208231430!50_Mozart.jpg" />
+    <Content Include="bing\220px-Leopold_Mozart.jpg" />
+    <Content Include="bing\220px-Mozart_and_Linley_1770.jpg" />
+    <Content Include="bing\23Mozart.jpg" />
+    <Content Include="bing\24mozart2.jpg" />
+    <Content Include="bing\250px-Maria_Anna_Mozart_%2528Lorenzoni.jpg" />
+    <Content Include="bing\30mozart_violin_i.jpg" />
+    <Content Include="bing\31entry-in-hotel-mozart.jpg" />
+    <Content Include="bing\34mozart.jpg" />
+    <Content Include="bing\35wolfgang_amadeus_mozart_4.jpg" />
+    <Content Include="bing\38mozart-final-sml.jpg" />
+    <Content Include="bing\46AVT_Wolfgang-Amadeus-Mozart_237.jpeg" />
+    <Content Include="bing\48Mozart.gif" />
+    <Content Include="bing\50Mozart.jpg" />
+    <Content Include="bing\51mozart2.jpg" />
+    <Content Include="bing\62Mozart.jpg" />
+    <Content Include="bing\64mozart1.jpg" />
+    <Content Include="bing\66220px-Mozart_and_Linley_1770.jpg" />
+    <Content Include="bing\67Mozart.jpg" />
+    <Content Include="bing\69Mozart.gif" />
+    <Content Include="bing\73mozartsmusic.jpg" />
+    <Content Include="bing\75imageMOZART6.png" />
+    <Content Include="bing\75mozart.jpg" />
+    <Content Include="bing\76mozart.jpg" />
+    <Content Include="bing\77mozart_340.jpg" />
+    <Content Include="bing\78mozart.jpg" />
+    <Content Include="bing\7mozart-family-portrait.jpg" />
+    <Content Include="bing\82mozart.jpg" />
+    <Content Include="bing\82mozart2.jpg" />
+    <Content Include="bing\86my-harpsichord-3.jpg" />
+    <Content Include="bing\94tapa-mozart.jpg" />
+    <Content Include="bing\Anna_Maria_Mozart.jpg" />
+    <Content Include="bing\AVT_Wolfgang-Amadeus-Mozart_237.jpeg" />
+    <Content Include="bing\Baby_mozart.jpg" />
+    <Content Include="bing\cafe-mozart.jpg" />
+    <Content Include="bing\collier_mozart.jpg" />
+    <Content Include="bing\Constanze_mozart.jpg" />
+    <Content Include="bing\Costanze_Mozart_by_Lange_1782.jpg" />
+    <Content Include="bing\Croce-Mozart-Detail.jpg" />
+    <Content Include="bing\download_history.pickle" />
+    <Content Include="bing\entry-in-hotel-mozart.jpg" />
+    <Content Include="bing\Franz_Xaver_Mozart_%2528Wolfgang_Jr%2529.jpg" />
+    <Content Include="bing\imageMOZART6.png" />
+    <Content Include="bing\K626_Requiem_Mozart.jpg" />
+    <Content Include="bing\m876433a.jpg" />
+    <Content Include="bing\Martini_bologna_mozart_1777.jpg" />
+    <Content Include="bing\MOZART+ADULTO+A.png" />
+    <Content Include="bing\mozart+piano.jpg" />
+    <Content Include="bing\mozart-01.jpg" />
+    <Content Include="bing\mozart-1417546850.jpg" />
+    <Content Include="bing\mozart-family-portrait.jpg" />
+    <Content Include="bing\mozart-final-sml.jpg" />
+    <Content Include="bing\mozart-glasses.jpg" />
+    <Content Include="bing\Mozart-Goethe.jpg" />
+    <Content Include="bing\mozart-in-the-jungle-lola-kirke-amaz.jpg" />
+    <Content Include="bing\mozart-manuscript-of-fantasia-in-c-m.jpg" />
+    <Content Include="bing\Mozart-Mendelssohn.jpg" />
+    <Content Include="bing\Mozart-_Coda-_Sonata_in_C_Major,_K._.png" />
+    <Content Include="bing\mozart.gif" />
+    <Content Include="bing\mozart.jpg" />
+    <Content Include="bing\mozart1.jpg" />
+    <Content Include="bing\mozart2.jpg" />
+    <Content Include="bing\mozartban6.jpg" />
+    <Content Include="bing\MozartLWNjpg.jpg" />
+    <Content Include="bing\mozarts-geburtshaus-1.jpg" />
+    <Content Include="bing\mozarts-thematic-catalogue-1.jpg" />
+    <Content Include="bing\mozartsmusic.jpg" />
+    <Content Include="bing\mozartwa.jpg" />
+    <Content Include="bing\mozart_175977.jpg" />
+    <Content Include="bing\mozart_340.jpg" />
+    <Content Include="bing\mozart_apollo.jpg" />
+    <Content Include="bing\Mozart_libretto_figaro_1786.jpg" />
+    <Content Include="bing\Mozart_painted_by_Greuze.jpg" />
+    <Content Include="bing\Mozart_Portrait_18_Jh.jpg" />
+    <Content Include="bing\mozart_quote.jpg" />
+    <Content Include="bing\mozart_quote_2.jpg" />
+    <Content Include="bing\mozart_sohn_schweikart_1825_detail.jpg" />
+    <Content Include="bing\Mozart_statue_London.jpg" />
+    <Content Include="bing\mozart_violin_i.jpg" />
+    <Content Include="bing\my-harpsichord-3.jpg" />
+    <Content Include="bing\pietro-antonio-lorenzoni-portrait-of3322" />
+    <Content Include="bing\ROytr6l.gif" />
+    <Content Include="bing\salzburg-mozart.jpg" />
+    <Content Include="bing\tapa-mozart.jpg" />
+    <Content Include="bing\tumblr_inline_mrjni8VXTE1qz4rgp.jpg" />
+    <Content Include="bing\Wolfgang%2520Amadeus%2520Mozart%2520-%2520Th.jpg" />
+    <Content Include="bing\Wolfgang%25252BAmadeus%25252BMozart%25252B.jpg" />
+    <Content Include="bing\wolfgang-amadeus-mozart-cosplay-wall.jpg" />
+    <Content Include="bing\Wolfgang-amadeus-mozart_1.jpg" />
+    <Content Include="bing\Wolfgang-amadeus-mozart_2.jpg" />
+    <Content Include="bing\wolfgang-amadeus-mozart_c_jpg_681x34.jpg" />
+    <Content Include="bing\wolfgang-obamadeus-mozart_o_725028.jpg" />
+    <Content Include="bing\WolfgangAmadeusMozart.jpg" />
+    <Content Include="bing\wolfgang_amadeus_mozart_4.jpg" />
+    <Content Include="bing\wolfl_mozart.jpg" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

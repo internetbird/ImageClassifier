@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageMetadataExtractor", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageClassifierLib", "ImageClassifierLib\ImageClassifierLib.csproj", "{1AE2C2D5-8A4F-4831-BB28-DDB033811C90}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BingImageDownloader", "BingImageDownloaded\BingImageDownloader.pyproj", "{9EB2193B-7643-4729-843C-2947EA23D868}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BingImageDownloader", "BingImageDownloader\BingImageDownloader.pyproj", "{9EB2193B-7643-4729-843C-2947EA23D868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

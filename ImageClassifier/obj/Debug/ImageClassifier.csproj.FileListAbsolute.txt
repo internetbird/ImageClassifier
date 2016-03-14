@@ -14,3 +14,19 @@ E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\ImageClassi
 E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\SimpleInjector.dll
 E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\ImageClassifierLib.pdb
 E:\GitHub\Image Classifier\ImageClassifier\ImageClassifier\bin\Debug\SimpleInjector.xml
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\ImageClassifier.exe.config
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\obj\Debug\ImageClassifier.exe
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\obj\Debug\ImageClassifier.pdb
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\Images\2broths.JPG
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\Images\backgroud.jpg
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\Images\backgroud2.jpg
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\Images\backgroud3.jpg
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\Images\PackageManagementConsole2.png
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\Images\Pic1.JPG
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\ImageClassifier.exe
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\ImageClassifier.pdb
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\ImageClassifierLib.dll
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\SimpleInjector.dll
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\ImageClassifierLib.pdb
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\bin\Debug\SimpleInjector.xml
+E:\GitHub\ImageClassifier\imageclassifier\ImageClassifier\obj\Debug\ImageClassifier.csprojResolveAssemblyReference.cache

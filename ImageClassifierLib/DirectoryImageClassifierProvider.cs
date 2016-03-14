@@ -24,6 +24,9 @@ namespace ImageClassifierLib
             }
 
             string[] files = Directory.GetFiles(_imagesFolder);
+
+            files = files.Where(file => file.IsImageFile()).ToArray();
+
             return files;
         }
     }

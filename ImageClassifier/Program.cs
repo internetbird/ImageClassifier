@@ -27,7 +27,7 @@ namespace ImageClassifier
 
             foreach (string file in files)
             {
-               
+                
                 using (FileStream fs = new FileStream(file, FileMode.Open, FileAccess.Read))
                 using (Image myImage = Image.FromStream(fs, false, false))
                 {
@@ -39,7 +39,7 @@ namespace ImageClassifier
                         dateTaken = r.Replace(Encoding.UTF8.GetString(propItem.Value), "-", 2);
                     }
 
-                    Console.WriteLine($"{file} : {dateTaken}");
+                    Console.WriteLine($"{Path.GetFileName(file)} : {dateTaken}");
                 }
 
             }

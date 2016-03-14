@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="DirectoryImageClassifierProvider.cs" />
     <Compile Include="IImageClassifierProvider.cs" />
+    <Compile Include="ImageClassifierExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
